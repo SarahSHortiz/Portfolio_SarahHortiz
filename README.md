@@ -18,9 +18,6 @@ Este é o repositório do meu site pessoal/portfolio, onde compartilho informaç
 3. **Trabalhos**: Exemplos dos meus trabalhos em design, ilustração, prototipagem e códigos.
 4. **Contato**: Formulário de contato e informações para entrar em contato comigo.
 
-### Como Visualizar o Site
-
-Você pode acessar meu site pessoal/portfolio [clicando aqui](#).
 
 ### Como Contribuir
 
